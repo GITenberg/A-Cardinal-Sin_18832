@@ -1,0 +1,37 @@
+_repo: A-Cardinal-Sin_18832
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Donovan, Alexina Loranger
+    alias: Loranger, Alexina
+    gutenberg_agent_id: '37954'
+    url: http://www.gutenberg.org/2009/agents/37954
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Marie Joseph
+    - Sue, Eugene
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: 'Translation of: Les Sept Péchés capitaux--L''avarice'
+gutenberg_issued: '2006-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Avarice -- Fiction'
+- !lcc 'PQ'
+title: A Cardinal Sin
+url: http://www.gutenberg.org/ebooks/18832
